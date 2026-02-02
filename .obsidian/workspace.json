@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "eb73f692c0705c8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b43fb59158f76a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c983d767fdc3ad9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "LZZC85F-9VD867-225BZ3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c783e4c021fe325",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f67c6ccb24d434",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7c3ae736a0472b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5dae71ce6b51e43b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "472ccdb3379e9f5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5150caadc9504f77",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b5530a083db257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b409043c7df1b4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LZZC85F-9VD867-225BZ3"
+            }
+          },
+          {
+            "id": "19a8ee74de4dd221",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LZZC85F-9VD867-225BZ3"
+            }
+          },
+          {
+            "id": "bd600aad4dcbb7cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ace612bc1fd4648",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "be4b8376f091d4a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LZZC85F-9VD867-225BZ3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f7c3ae736a0472b4",
+  "lastOpenFiles": [
+    "CLAUDE.md",
+    "Database/2.Listed Cards/Badgermole Cub-722158.md",
+    "Database/1.Unlisted Cards/Badgermole Cub-1.md",
+    "Database/3.Sold Cards/Lightning Helix-5F9C0610-AA96AE-713C6.md",
+    "Database/3.Sold Cards/Killer Duck-LZZC85F-9VD867-225BZ3.md",
+    "Database/3.Sold Cards/Shadowmage Assassin-5F9C0610-AA96AE-713C6.md.md",
+    "examples-and-tempates/Example-Database/Sale Records/{{sale-record-id}}.md",
+    "examples-and-tempates/Example-Database/3.Sold Cards/{{card-name}}-{{sale-id}}.md",
+    "examples-and-tempates/Example-Database/2.Listed Cards/{{card-name}}-{{listing-id}}.md",
+    "examples-and-tempates/Example-Database/1.Unlisted Cards/{{card-name}}-{{card-id}}.md",
+    "examples-and-tempates/TCPPlayer-Sale-Email-Template.md",
+    "examples-and-tempates/TCPPlayer-Card-Listing-Email-Template.md",
+    "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+    "Database/Sale Records/5F9C0610-AA96AE-713C6.md",
+    "Database/3.Sold Cards/Shadowmage Assassin-5F9C0610-AA96AE-713C6.md",
+    "Database/Sale Records/LZZC85F-9VD867-225BZ3.md.md",
+    "Database/3.Sold Cards/Killer Duck-LZZC85F-9VD867-225BZ3.md.md",
+    "Database/Sale Records/5F9C0610-AA96AE-713C6.md.md",
+    "examples-and-tempates/Example-Database/Sale Records/{{sale-record-id}}.md.md",
+    "examples-and-tempates/Example-Database/3.Sold Cards/{{card-name}}-{{sale-id}}.md.md",
+    "examples-and-tempates/Example-Database/2.Listed Cards/{{card-name}}-{{listing-id}}.md.md",
+    "examples-and-tempates/Example-Database/1.Unlisted Cards/{{card-name}}-{{card-id}}.md.md",
+    "Database/3.Sold Cards/Lightning Helix-5F9C0610-AA96AE-713C6.md.md",
+    "Database/1.Unlisted Cards/Badgermole Cub-1.md.md",
+    "Database/2.Listed Cards/Badgermole Cub-722158.md.md",
+    "Database/1.Unlisted Cards/Badgermole Cub-1.md 1.md",
+    "examples-and-tempates/Example-Database/Sale Records",
+    "examples-and-tempates/Example-Database/3.Sold Cards",
+    "examples-and-tempates/Example-Database/2.Listed Cards",
+    "examples-and-tempates/Example-Database/1.Unlisted Cards",
+    "examples-and-tempates/Example-Database",
+    "examples-and-tempates/Database/Sale Records",
+    "examples-and-tempates/Database/3.Sold Cards",
+    "examples-and-tempates/Database/2.Listed Cards",
+    "examples-and-tempates/Database/1.Unlisted Cards",
+    "examples-and-tempates/Database"
+  ]
+}
