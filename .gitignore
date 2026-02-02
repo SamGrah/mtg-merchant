@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# gmail mcp config
+.claude/gcp-oauth.keys.json
+.claude/mcp.json
+
+# Node
+node_modules
+
+# VSCode
+.vscode

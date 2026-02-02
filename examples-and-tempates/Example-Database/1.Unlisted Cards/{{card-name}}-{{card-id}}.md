@@ -6,7 +6,7 @@ card-set: example-set
 card-condition: Lightly Played
 card-rarity: common 
 listing-id:
-listing-url: https://www.tcgplayer.com/product/631288/magic-commander-final-fantasy-magic?seller=0119597a&page=1&Language=English
+listing-url: 
 listing-price:
 sale-record:
 ---

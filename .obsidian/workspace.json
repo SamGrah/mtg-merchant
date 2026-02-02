@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+                "file": "Database/2.Listed Cards/Badgermole Cub-722158.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "LZZC85F-9VD867-225BZ3"
+              "title": "Badgermole Cub-722158"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ecc5044710c99a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9af60b6a818a91e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples-and-tempates/sale-email.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "sale-email"
             }
           }
         ]
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+                "file": "examples-and-tempates/sale-email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LZZC85F-9VD867-225BZ3"
+              "title": "Backlinks for sale-email"
             }
           },
           {
@@ -113,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+                "file": "examples-and-tempates/sale-email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LZZC85F-9VD867-225BZ3"
+              "title": "Outgoing links from sale-email"
             }
           },
           {
@@ -156,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+                "file": "examples-and-tempates/sale-email.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LZZC85F-9VD867-225BZ3"
+              "title": "Outline of sale-email"
             }
           }
         ]
@@ -183,21 +203,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "f7c3ae736a0472b4",
+  "active": "a9af60b6a818a91e",
   "lastOpenFiles": [
-    "CLAUDE.md",
+    "README.md",
+    "Database/3.Sold Cards/Badgermole Cub-K0ZC85F-9VD867-2H5BZ3.md",
+    "Database/Sale Records/K0ZC85F-9VD867-2H5BZ3.md",
     "Database/2.Listed Cards/Badgermole Cub-722158.md",
+    "examples-and-tempates/sale-email.md",
+    "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
+    "examples-and-tempates/Example-Database/2.Listed Cards/{{card-name}}-{{listing-id}}.md",
+    "examples-and-tempates/TCPPlayer-Sale-Email-Template.md",
+    "examples-and-tempates/Example-Database/1.Unlisted Cards/{{card-name}}-{{card-id}}.md",
+    "envelope-labels.html",
+    "process-summary.txt",
+    "Database/3.Sold Cards/The Fire Crystal-5F9C0610-AA96AE-713C6.md",
+    "CLAUDE.md",
     "Database/1.Unlisted Cards/Badgermole Cub-1.md",
     "Database/3.Sold Cards/Lightning Helix-5F9C0610-AA96AE-713C6.md",
     "Database/3.Sold Cards/Killer Duck-LZZC85F-9VD867-225BZ3.md",
     "Database/3.Sold Cards/Shadowmage Assassin-5F9C0610-AA96AE-713C6.md.md",
     "examples-and-tempates/Example-Database/Sale Records/{{sale-record-id}}.md",
     "examples-and-tempates/Example-Database/3.Sold Cards/{{card-name}}-{{sale-id}}.md",
-    "examples-and-tempates/Example-Database/2.Listed Cards/{{card-name}}-{{listing-id}}.md",
-    "examples-and-tempates/Example-Database/1.Unlisted Cards/{{card-name}}-{{card-id}}.md",
-    "examples-and-tempates/TCPPlayer-Sale-Email-Template.md",
     "examples-and-tempates/TCPPlayer-Card-Listing-Email-Template.md",
-    "Database/Sale Records/LZZC85F-9VD867-225BZ3.md",
     "Database/Sale Records/5F9C0610-AA96AE-713C6.md",
     "Database/3.Sold Cards/Shadowmage Assassin-5F9C0610-AA96AE-713C6.md",
     "Database/Sale Records/LZZC85F-9VD867-225BZ3.md.md",
@@ -206,11 +233,6 @@
     "examples-and-tempates/Example-Database/Sale Records/{{sale-record-id}}.md.md",
     "examples-and-tempates/Example-Database/3.Sold Cards/{{card-name}}-{{sale-id}}.md.md",
     "examples-and-tempates/Example-Database/2.Listed Cards/{{card-name}}-{{listing-id}}.md.md",
-    "examples-and-tempates/Example-Database/1.Unlisted Cards/{{card-name}}-{{card-id}}.md.md",
-    "Database/3.Sold Cards/Lightning Helix-5F9C0610-AA96AE-713C6.md.md",
-    "Database/1.Unlisted Cards/Badgermole Cub-1.md.md",
-    "Database/2.Listed Cards/Badgermole Cub-722158.md.md",
-    "Database/1.Unlisted Cards/Badgermole Cub-1.md 1.md",
     "examples-and-tempates/Example-Database/Sale Records",
     "examples-and-tempates/Example-Database/3.Sold Cards",
     "examples-and-tempates/Example-Database/2.Listed Cards",
@@ -218,8 +240,6 @@
     "examples-and-tempates/Example-Database",
     "examples-and-tempates/Database/Sale Records",
     "examples-and-tempates/Database/3.Sold Cards",
-    "examples-and-tempates/Database/2.Listed Cards",
-    "examples-and-tempates/Database/1.Unlisted Cards",
-    "examples-and-tempates/Database"
+    "examples-and-tempates/Database/2.Listed Cards"
   ]
 }

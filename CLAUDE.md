@@ -78,10 +78,24 @@ shipped-date:
 - **Empty fields**: leave blank (no null or placeholder values)
 - **Deduplication**: `Database/.last-check` stores the last processing timestamp. Dedup checks existing records by listing-id (in `2.Listed Cards/` and `3.Sold Cards/`) and sale-record-id (in `Sale Records/`), not email read status. Default to 30 days ago if `.last-check` doesn't exist.
 
+## Merchant Info
+
+```
+return-address: |
+  YOUR NAME
+  YOUR STREET ADDRESS
+  YOUR CITY, STATE ZIP
+envelope-size: "#6 3/4 (3.625in x 6.5in)"
+```
+
+## Dependencies
+
+- **Gmail MCP Server**: `gmail-mcp` configured in `.claude/mcp.json` with OAuth credentials at `~/.gmail-mcp/gcp-oauth.keys.json`.
+
 ## Available Tooling
 
 | Tool | Type | Purpose |
 |------|------|---------|
-| `mtg-merchant` | Output style | Formats responses for card merchant context |
-| `tcgplayer-order-processor` | Agent | Parses TCGPlayer emails from Gmail, creates/updates vault records |
-| `/check-orders` | Skill | Checks Gmail for new TCGPlayer orders and listings, processes into vault. Optional arg: number of days to override search window |
+| `mtg-merchant` | Output style | Merchant response formatting |
+| `tcgplayer-order-processor` | Agent | Process TCGPlayer emails into vault records |
+| `/check-orders` | Skill | Trigger order processing (optional arg: days to search) |

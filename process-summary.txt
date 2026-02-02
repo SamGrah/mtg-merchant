@@ -1,0 +1,40 @@
+### Processing Summary
+
+**Emails Scanned:** 0
+**New Listings Processed:** 0
+**New Sales Processed:** 0
+**Duplicates Skipped:** 0 (already in database)
+
+**New Listings:**
+| Card Name | Set | Condition | Listing ID | Price |
+|-----------|-----|-----------|------------|-------|
+| (none) | | | | |
+
+**New Sales:**
+| Order ID | Card Name | Sale Price | Buyer | Status |
+|----------|-----------|------------|-------|--------|
+| (none) | | | | |
+
+**Sold Pending Shipping:**
+(All unshipped orders, not just from this run — scan all Sale Records where shipped-date is empty)
+| Order ID | Card Name | Buyer | Address | Sale Date | Days Since Sale |
+|----------|-----------|-------|---------|-----------|-----------------|
+| 5F9C0610-AA96AE-713C6 | (See sold card record) | Ted Danson | 666 Overrate Drive, Hollywood Hills, California 45690 | 2024-02-03T01:23:00Z | 730 |
+
+**Payments Received:**
+(All shipped orders — scan all Sale Records where shipped-date is populated)
+| Order ID | Card Name | Sale Price | Buyer | Shipped Date |
+|----------|-----------|------------|-------|--------------|
+| LZZC85F-9VD867-225BZ3 | (See sold card record) | $50.00 | Billy Joe Bob | 2024-02-03T04:23:00Z |
+
+**Issues Requiring Attention:**
+- None
+
+### Files Modified:
+- /Users/samgraham/Projects/temp/mtg-merchant/mtg_merchant/envelope-labels.html (updated)
+- /Users/samgraham/Projects/temp/mtg-merchant/mtg_merchant/Database/.last-check (updated)
+
+**Last checked:** 2026-02-01T22:05:00Z -> 2026-02-02T03:44:28Z
+
+Envelope labels: envelope-labels.html (1 envelope)
+Print: Open in browser → Print → Set paper size to "#6 3/4 Envelope" → Margins: None → Print
